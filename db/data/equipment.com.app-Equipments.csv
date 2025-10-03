@@ -1,0 +1,4 @@
+ID,name,type_code,location_code,manufacturer,status_code,createdAt,createdBy,modifiedAt,modifiedBy
+550e8400-e29b-41d4-a716-446655440000,Hydraulic Pump,TP001,LOC01,Bosch,ACTIVE,2025-09-20T10:30:00Z,admin,2025-09-25T14:20:00Z,user1
+7d444840-9dc0-11d1-b245-5ffdce74fad2,Conveyor Belt,TP002,LOC02,Siemens,INACTIVE,2025-08-15T09:15:00Z,user2,2025-09-10T11:05:00Z,admin
+f47ac10b-58cc-4372-a567-0e02b2c3d479,3D Printer,TP005,LOC01,HP,DECOMMISSIONED,2025-05-05T08:25:00Z,admin,2025-08-30T13:55:00Z,admin

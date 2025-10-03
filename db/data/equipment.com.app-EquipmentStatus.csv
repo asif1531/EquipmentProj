@@ -1,0 +1,4 @@
+code,name,criticality
+ACTIVE,Active,3
+INACTIVE,Inactive,2
+DECOMMISSIONED,Decommissioned,1
